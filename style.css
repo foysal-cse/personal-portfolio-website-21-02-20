@@ -28,7 +28,7 @@ p{
     color: #EC4D7C;
 }
 .top-banner{
-    background-image: url("../imgs/header_bg.png");
+    background-image: url("imgs/header_bg.png");
 }
 /* all background usage common property*/
 .bg{
@@ -79,11 +79,11 @@ p{
 }
 /* 2nd section or biography content section started*/
 .mid-banner{
-    background-image: url("../imgs/biography-bg.png");
+    background-image: url("imgs/biography-bg.png");
 }
 /* 3rd section or work section started*/
 .work-banner{
-    background-image: url("../imgs/latest-work-bg.png");
+    background-image: url("imgs/latest-work-bg.png");
 }
 /*the class usage for text alignment and padding*/
 .center{
@@ -111,7 +111,7 @@ p{
 }
 /* 4th section or footer section started*/
 .footer-banner{
-    background-image: url("../imgs/footer-bg.png");
+    background-image: url("imgs/footer-bg.png");
 }
 .email-me{
     background-image: linear-gradient(to Right, #EC4F90, rgb(240, 23, 113));
